@@ -1,8 +1,13 @@
 table {
     font-size: large;
+    border: 1px dashed grey;
+
 }
 
 td{
     width: 4cm;
     height: 4cm;
+    border: black;
 }
+caption{
+    background: rgb(199, 21, 21);
